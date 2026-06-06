@@ -77,4 +77,4 @@ print(p.total_raised_cr, p.latest_valuation_cr, p.valuation_step_up())
 
 ---
 
-© 2026 Bhupendra Gurjar. All rights reserved. Commercial / subscription license.
+All rights reserved. Commercial / subscription license.
